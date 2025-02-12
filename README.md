@@ -1,1 +1,4 @@
-# Discrete-Structure
+## SECI1013 ASSIGNMENTS 📊
+Discrete Structure is a fundamental subject in computer science and mathematics that deals with distinct, separate elements rather than continuous data. It provides the mathematical foundation for various computer science concepts, including algorithms, cryptography, databases, and network security. The subject covers essential topics such as set theory, logic, functions, relations, graph theory, combinatorics, recurrence relations, Boolean algebra, and number theory. 
+
+These concepts play a crucial role in algorithm design, data structures, artificial intelligence, and computer networks. For example, graph theory is widely used in bioinformatics for analyzing biological networks and phylogenetic trees, while combinatorics helps in sequence alignment and genome assembly. Understanding discrete structures enhances problem-solving skills and logical reasoning, making it a vital subject for students in fields like computer science and bioinformatics.
